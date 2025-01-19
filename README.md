@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevOverflow<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning NextJs<br>💬 Ask me about Frontend<br>
+🔭 I’m currently working on DevOverflow<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning Svelte<br>💬 Ask me about FullStack Development<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya.gupta03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gupta128) 
